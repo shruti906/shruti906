@@ -11,7 +11,6 @@
 <!-- Badges -->
 ![](https://img.shields.io/badge/Status-Open_to_Internships-A78BFA?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/Location-Patna%2C_Bihar_→_Gurgaon-38f9d7?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/CGPA-7.00-f9a825?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/Specialisation-Data_Science_%26_AI-56ccf2?style=flat-square&labelColor=0D1117)
 
 </div>
@@ -49,8 +48,8 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikeshri09/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shruti906)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutikeshri111@gmail.com)
 
 </div>
