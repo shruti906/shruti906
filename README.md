@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 ![](https://img.shields.io/badge/Status-Open_to_Internships-A78BFA?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/Location-Patna%2C_Bihar_→_Gurgaon-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Location-Gurgaon-38f9d7?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/Specialisation-Data_Science_%26_AI-56ccf2?style=flat-square&labelColor=0D1117)
 
 </div>
@@ -33,7 +33,7 @@ focus_areas:
   - Semantic Matching & AI Workflow Automation
   - Real-time Systems & REST APIs
 
-currently_building:
+my_projects:
   - Swap Station  — Smart EV Operations Dashboard
   - Joblyt        — AI Recruitment Assistant
 
@@ -82,7 +82,6 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **AI / ML**
 
