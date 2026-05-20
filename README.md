@@ -24,7 +24,7 @@
 
 ```yaml
 name:       Shruti Keshri
-location:   Patna, Bihar → Gurgaon, India
+location:   Gurgaon, India
 education:  B.Tech CSE (Data Science & AI)
             @ BML Munjal University  [2023–Present]
 
@@ -158,7 +158,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 | 🏅 | Achievement |
 |---|---|
 | 🥉 | **Smart India Hackathon (SIH) 2025** — 2nd Runner-up at college level |
-| 🎓 | **B.Tech CSE (Data Science & AI)** @ BML Munjal University — CGPA: 7.00 |
+| 🎓 | **B.Tech CSE (Data Science & AI)** @ BML Munjal University |
 | 🤖 | **AI Intern @ Verto Solutions Limited** — Production AI recruiting tool (June–July 2025) |
 | 📐 | **XIIth CBSE** — 82.3% | **Xth ICSE** — 86% |
 
