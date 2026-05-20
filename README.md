@@ -197,7 +197,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sryz13?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/shrtuzz09/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shrutzz09?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/shrtuzz09/)
 
 </div>
 
