@@ -10,7 +10,8 @@
 
 <!-- Badges -->
 ![](https://img.shields.io/badge/Status-Open_to_Internships-A78BFA?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/Location-Gurgaon-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Location-Patna%2C_Bihar_→_Gurgaon-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/CGPA-7.00-f9a825?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/Specialisation-Data_Science_%26_AI-56ccf2?style=flat-square&labelColor=0D1117)
 
 </div>
@@ -23,7 +24,7 @@
 
 ```yaml
 name:       Shruti Keshri
-location:   Gurgaon, India
+location:   Patna, Bihar → Gurgaon, India
 education:  B.Tech CSE (Data Science & AI)
             @ BML Munjal University  [2023–Present]
 
@@ -33,7 +34,7 @@ focus_areas:
   - Semantic Matching & AI Workflow Automation
   - Real-time Systems & REST APIs
 
-my_projects:
+currently_building:
   - Swap Station  — Smart EV Operations Dashboard
   - Joblyt        — AI Recruitment Assistant
 
@@ -48,9 +49,9 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikeshri09/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shruti906)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shrtuzz09/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sryz13/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutikeshri111@gmail.com)
 
 </div>
@@ -83,6 +84,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **AI / ML**
 
@@ -112,6 +114,13 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
         <img src="https://img.shields.io/badge/AI_Decision_Engine-6E40C9?style=flat-square"/>
       </p>
       <img src="https://img.shields.io/badge/Jan_2026–Present-Active-2ECC71?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/shruti906/swap-station">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Joblyt – AI Recruitment Assistant</h3>
@@ -125,6 +134,13 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
         <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square"/>
       </p>
       <img src="https://img.shields.io/badge/June–July_2025-Completed-56ccf2?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/shruti906/Joblyt">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://joblyt.vercel.app">
+        <img src="https://img.shields.io/badge/Live_Demo-38f9d7?style=for-the-badge&logo=vercel&logoColor=black"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -149,6 +165,17 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
     </td>
   </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shruti906&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti906&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -179,6 +206,18 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shruti906&theme=redical&bg_color=141321&color=A78BFA&line=38f9d7&point=f9a825&area=true&hide_border=true)](https://github.com/shruti906)
 
 </div>
+
+---
+
+### 💻 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sryz13?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/sryz13/)
+
+</div>
+
+---
 
 ### 🎖️ Achievements
 
